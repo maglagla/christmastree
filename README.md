@@ -4,3 +4,5 @@
 - Reload the page to regenerate the tree
 - Change Javascript reference in index.html to generate different styles of trees
 - Type s to save the tree as a SVG file
+
+![tannenbaum.svg](tannenbaum.svg)
